@@ -87,147 +87,147 @@
 		<link>
 			<name>Smart Configurator/Config_IICA0/Config_IICA0.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/Config_IICA0/Config_IICA0.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/Config_IICA0/Config_IICA0.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/Config_IICA0/Config_IICA0.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/Config_IICA0/Config_IICA0.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/Config_IICA0/Config_IICA0.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/Config_IICA0/Config_IICA0_user.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/Config_IICA0/Config_IICA0_user.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/Config_IICA0/Config_IICA0_user.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/Config_PORT/Config_PORT.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/Config_PORT/Config_PORT.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/Config_PORT/Config_PORT.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/Config_PORT/Config_PORT.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/Config_PORT/Config_PORT.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/Config_PORT/Config_PORT.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/Config_PORT/Config_PORT_user.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/Config_PORT/Config_PORT_user.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/Config_PORT/Config_PORT_user.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/Config_TAU0_0/Config_TAU0_0.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/Config_TAU0_0/Config_TAU0_0.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/Config_TAU0_0/Config_TAU0_0.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/Config_TAU0_0/Config_TAU0_0.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/Config_TAU0_0/Config_TAU0_0.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/Config_TAU0_0/Config_TAU0_0.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/Config_TAU0_0/Config_TAU0_0_user.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/Config_TAU0_0/Config_TAU0_0_user.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/Config_TAU0_0/Config_TAU0_0_user.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/Config_UART0/Config_UART0.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/Config_UART0/Config_UART0.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/Config_UART0/Config_UART0.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/Config_UART0/Config_UART0.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/Config_UART0/Config_UART0.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/Config_UART0/Config_UART0.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/Config_UART0/Config_UART0_user.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/Config_UART0/Config_UART0_user.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/Config_UART0/Config_UART0_user.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/Config_UART1/Config_UART1.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/Config_UART1/Config_UART1.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/Config_UART1/Config_UART1.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/Config_UART1/Config_UART1.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/Config_UART1/Config_UART1.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/Config_UART1/Config_UART1.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/Config_UART1/Config_UART1_user.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/Config_UART1/Config_UART1_user.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/Config_UART1/Config_UART1_user.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/general/r_cg_iica.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/general/r_cg_iica.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/general/r_cg_iica.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/general/r_cg_iica_common.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/general/r_cg_iica_common.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/general/r_cg_iica_common.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/general/r_cg_iica_common.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/general/r_cg_iica_common.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/general/r_cg_iica_common.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/general/r_cg_macrodriver.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/general/r_cg_macrodriver.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/general/r_cg_macrodriver.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/general/r_cg_port.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/general/r_cg_port.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/general/r_cg_port.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/general/r_cg_sau.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/general/r_cg_sau.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/general/r_cg_sau.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/general/r_cg_sau_common.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/general/r_cg_sau_common.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/general/r_cg_sau_common.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/general/r_cg_sau_common.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/general/r_cg_sau_common.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/general/r_cg_sau_common.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/general/r_cg_systeminit.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/general/r_cg_systeminit.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/general/r_cg_systeminit.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/general/r_cg_tau.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/general/r_cg_tau.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/general/r_cg_tau.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/general/r_cg_tau_common.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/general/r_cg_tau_common.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/general/r_cg_tau_common.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/general/r_cg_tau_common.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/general/r_cg_tau_common.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/general/r_cg_tau_common.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/general/r_cg_userdefine.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/general/r_cg_userdefine.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/general/r_cg_userdefine.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/general/r_smc_entry.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/general/r_smc_entry.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/general/r_smc_entry.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/board</name>
@@ -247,32 +247,27 @@
 		<link>
 			<name>Smart Configurator/r_bsp/platform.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/platform.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/platform.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/readme.txt</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/readme.txt</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/readme.txt</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_config/r_bsp_config.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_config/r_bsp_config.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_config/r_bsp_config.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_config/r_bsp_config.inc</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_config/r_bsp_config.inc</location>
-		</link>
-		<link>
-			<name>Smart Configurator/r_pincfg/Pin.c</name>
-			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_pincfg/Pin.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_config/r_bsp_config.inc</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_pincfg/Pin.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_pincfg/Pin.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_pincfg/Pin.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/board/generic_rl78_f24</name>
@@ -302,112 +297,112 @@
 		<link>
 			<name>Smart Configurator/r_bsp/board/generic_rl78_f24/hdwinit.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/board/generic_rl78_f24/hdwinit.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/board/generic_rl78_f24/hdwinit.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/board/generic_rl78_f24/hdwinit.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/board/generic_rl78_f24/hdwinit.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/board/generic_rl78_f24/hdwinit.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/board/generic_rl78_f24/r_bsp.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/board/generic_rl78_f24/r_bsp.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/board/generic_rl78_f24/r_bsp.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/board/generic_rl78_f24/r_bsp_config_reference.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/board/generic_rl78_f24/r_bsp_config_reference.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/board/generic_rl78_f24/r_bsp_config_reference.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/board/generic_rl78_f24/r_bsp_config_reference_ccrl.inc</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/board/generic_rl78_f24/r_bsp_config_reference_ccrl.inc</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/board/generic_rl78_f24/r_bsp_config_reference_ccrl.inc</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/board/generic_rl78_f24/r_bsp_config_reference_iccrl.inc</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/board/generic_rl78_f24/r_bsp_config_reference_iccrl.inc</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/board/generic_rl78_f24/r_bsp_config_reference_iccrl.inc</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/board/generic_rl78_f24/r_bsp_config_reference_llvm.inc</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/board/generic_rl78_f24/r_bsp_config_reference_llvm.inc</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/board/generic_rl78_f24/r_bsp_config_reference_llvm.inc</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/board/generic_rl78_f24/r_bsp_init.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/board/generic_rl78_f24/r_bsp_init.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/board/generic_rl78_f24/r_bsp_init.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/board/generic_rl78_f24/stkinit.asm</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/board/generic_rl78_f24/stkinit.asm</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/board/generic_rl78_f24/stkinit.asm</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/doc/en/r01an5522ej0162-rl78-bsp.pdf</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/doc/en/r01an5522ej0162-rl78-bsp.pdf</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/doc/en/r01an5522ej0162-rl78-bsp.pdf</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/doc/ja/r01an5522jj0162-rl78-bsp.pdf</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/doc/ja/r01an5522jj0162-rl78-bsp.pdf</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/doc/ja/r01an5522jj0162-rl78-bsp.pdf</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/mcu/all/cstart.asm</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/mcu/all/cstart.asm</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/mcu/all/cstart.asm</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/mcu/all/fsp_common_api.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/mcu/all/fsp_common_api.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/mcu/all/fsp_common_api.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/mcu/all/r_bsp_common.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/mcu/all/r_bsp_common.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/mcu/all/r_bsp_common.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/mcu/all/r_bsp_common.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/mcu/all/r_bsp_common.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/mcu/all/r_bsp_common.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/mcu/all/r_bsp_common_ccrl.asm</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/mcu/all/r_bsp_common_ccrl.asm</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/mcu/all/r_bsp_common_ccrl.asm</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/mcu/all/r_bsp_rl78_compiler.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/mcu/all/r_bsp_rl78_compiler.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/mcu/all/r_bsp_rl78_compiler.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/mcu/all/r_fsp_error.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/mcu/all/r_fsp_error.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/mcu/all/r_fsp_error.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/mcu/all/r_rtos.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/mcu/all/r_rtos.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/mcu/all/r_rtos.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/mcu/rl78_f24/mcu_clocks.c</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/mcu/rl78_f24/mcu_clocks.c</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/mcu/rl78_f24/mcu_clocks.c</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/mcu/rl78_f24/mcu_clocks.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/mcu/rl78_f24/mcu_clocks.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/mcu/rl78_f24/mcu_clocks.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/mcu/rl78_f24/mcu_info.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/mcu/rl78_f24/mcu_info.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/mcu/rl78_f24/mcu_info.h</locationURI>
 		</link>
 		<link>
 			<name>Smart Configurator/r_bsp/mcu/rl78_f24/register_access</name>
@@ -422,7 +417,7 @@
 		<link>
 			<name>Smart Configurator/r_bsp/mcu/rl78_f24/register_access/ccrl/iodefine.h</name>
 			<type>1</type>
-			<location>D:/SourceCode/_Avery_Renesas/CS+/RL78_F24_Boot_loader_UART_e2/src/smc_gen/r_bsp/mcu/rl78_f24/register_access/ccrl/iodefine.h</location>
+			<locationURI>PROJECT_LOC/src/smc_gen/r_bsp/mcu/rl78_f24/register_access/ccrl/iodefine.h</locationURI>
 		</link>
 	</linkedResources>
 </projectDescription>
